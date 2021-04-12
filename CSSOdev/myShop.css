@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: #FEFFDE;
+}
+h1{
+    color: #4577b8;
+}
+h2{
+    color: #322d7c;
+}
+h4{
+    color: #313e83;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}
